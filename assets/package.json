@@ -1,0 +1,19 @@
+{
+  "name": "mybulma",
+  "version": "1.0.0",
+  "description": "node bulma package",
+  "main": "scss/cedar.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bulma",
+    "css"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "bulma": "^0.7.2",
+    "node-sass": "^4.11.0"
+  }
+}
