@@ -30,7 +30,15 @@ npm install
 
 ```
 
-4. Begin using [Bulma CSS](https://bulma.io/) as your frontend framework. Edit **index.html** as you wish. Visit the [official documentation](https://bulma.io/documentation/) for more information.  
+4. Use this line of code to watch your SASS file, and convert it to CSS. It is also available in the **sass.txt** file.
+
+```bash
+
+sass --watch assets/scss:assets/css
+
+```
+
+5. Begin using [Bulma CSS](https://bulma.io/) as your frontend framework. Edit **index.html** as you wish. Visit the [official documentation](https://bulma.io/documentation/) for more information.  
 
 - - -
 
