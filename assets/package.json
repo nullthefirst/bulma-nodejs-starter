@@ -2,15 +2,19 @@
   "name": "mybulma",
   "version": "1.0.0",
   "description": "node bulma package",
-  "main": "scss/cedar.scss",
+  "main": "assets/scss/main.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Usheninte/bulma-nodejs-starter.git"
   },
   "keywords": [
     "bulma",
     "css"
   ],
-  "author": "",
+  "author": "Usheninte Dangana",
   "license": "MIT",
   "devDependencies": {
     "bulma": "^0.7.2",
