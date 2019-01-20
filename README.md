@@ -29,3 +29,5 @@ cd assets
 npm install
 
 ```
+
+4. Begin using [Bulma CSS](https://bulma.io/) as your frontend framework. Edit **index.html** as you wish. Visit the [official documentation](https://bulma.io/documentation/) for more information
