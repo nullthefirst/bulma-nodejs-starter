@@ -11,3 +11,11 @@ Built following the official Bulma customization option [with node-sass](https:/
 git clone https://github.com/Usheninte/bulma-nodejs-starter.git
 
 ```
+
+2. With the terminal, moved into the assets folder:
+
+```bash
+
+cd assets
+
+```
