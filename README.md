@@ -19,3 +19,13 @@ git clone https://github.com/Usheninte/bulma-nodejs-starter.git
 cd assets
 
 ```
+
+3. Run `npm install` to add **node-sass** and **bulma** as devDependecies:
+
+> [NOTE:]() This is a key step in the installation process, without this you will be able to use Bulma CSS.
+
+```bash
+
+npm install
+
+```
