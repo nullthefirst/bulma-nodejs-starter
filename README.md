@@ -12,7 +12,7 @@ git clone https://github.com/Usheninte/bulma-nodejs-starter.git
 
 ```
 
-2. With the terminal, moved into the assets folder:
+2. With the terminal, move into the assets folder:
 
 ```bash
 
@@ -22,7 +22,7 @@ cd assets
 
 3. Run `npm install` to add **node-sass** and **bulma** as devDependecies:
 
-> [NOTE:]() This is a key step in the installation process, without this you will be able to use Bulma CSS.
+> [NOTE:]() This is a key step in the installation process, without this you will not be able to use Bulma CSS.
 
 ```bash
 
@@ -31,3 +31,5 @@ npm install
 ```
 
 4. Begin using [Bulma CSS](https://bulma.io/) as your frontend framework. Edit **index.html** as you wish. Visit the [official documentation](https://bulma.io/documentation/) for more information
+
+- - -
