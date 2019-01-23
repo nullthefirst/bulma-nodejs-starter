@@ -2,7 +2,7 @@
   "name": "mybulma",
   "version": "1.0.0",
   "description": "node bulma package",
-  "main": "scss/main.scss",
+  "main": "assets/scss/main.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
